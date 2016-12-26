@@ -1,0 +1,20 @@
+<?0.9.0?>
+<MGE>
+    <!-- MGE Animation -->
+    <Animation sequences="2">
+        <AnimationSequence>
+            <name>idle</name>
+            <speed>1</speed>
+            <start>1</start>
+            <end>3</end>
+            <loop>1</loop>
+        </AnimationSequence>
+        <AnimationSequence>
+            <name>run</name>
+            <speed>2</speed>
+            <start>4</start>
+            <end>8</end>
+            <loop>1</loop>
+        </AnimationSequence>
+    </Animation>
+</MGE>

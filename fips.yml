@@ -1,0 +1,27 @@
+# sllab
+---
+imports:
+    fips-stb:
+        git:    https://github.com/fungos/fips-stb.git
+    fips-assimp:
+        git:    https://github.com/fungos/fips-assimp.git
+    fips-glm:
+        git:    https://github.com/floooh/fips-glm.git
+    fips-bgfx:
+        git:    https://github.com/floooh/fips-bgfx.git
+    fips-remotery:
+        git:    https://github.com/floooh/fips-remotery.git
+    fips-imgui:
+        git:    https://github.com/fungos/fips-imgui.git
+    slmem:
+        git:    https://github.com/Patuti/slmem.git
+run:
+    viewer:
+        cwd: ./bin
+    cube:
+        cwd: ./bin
+    test0:
+        cwd: ./tests
+    test1:
+        cwd: ./tests
+
